@@ -1,0 +1,6 @@
+{
+  "name": "Maritex RAG",
+  "description": "Maritime Expo Data Ingestion, Extraction, and RAG Pipeline for Project Intelligence and WhatsApp Data Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
